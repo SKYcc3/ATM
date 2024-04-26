@@ -1,4 +1,4 @@
-exec InsertOperator;
+exec InsertOperator 'ATM|营业员|营业员|ATM|营业员';
 
 exec GetCardID;
 
